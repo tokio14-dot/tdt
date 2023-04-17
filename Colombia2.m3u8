@@ -2,9 +2,7 @@
 #EXTINF:-1 tvg-id="RCN TV" status="online",RCN TV
 https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-Sk7Z-9vqEYbkih2Pm7jWUnKLscrgg_q9sPeuwpl0pb5)/cloud/3/x7vyv0z/s/live-0.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="Caracol TV" status="online",Caracol TV
-https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_250.m3u8?aid=574462d1cab0f4d50866f001&uid=Z5CmEkTGuztjBjdh78Vi3NGDjyKpxYpY&sid=Tu7ACGaqgMT5DUwjc9tbE4ZjS3EcZn8m&pid=D0vkYVtGWY0lHfmP4mBEJlVCpup5L3sF&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e3-p-e-za1.cdn.mdstrm.com&ote=1681776421232&ot=Oz398QMExoBoiZXAd2x_Xw&proto=https&pz=us
-#EXTINF:-1 tvg-id="Caracol TV 2" status="online",Caracol TV 2
-https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_1000.m3u8?aid=574462d1cab0f4d50866f001&uid=Z5CmEkTGuztjBjdh78Vi3NGDjyKpxYpY&sid=g74hM8egj9pAlMWsHf7V4dKLkGGPfliE&pid=mmffIe5OMUHTUmB5qziHxINU6vadIUJC&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e3-p-e-za1.cdn.mdstrm.com&ote=1681781965502&ot=qbxSBsrAcEBnkXz1wgs_yg&proto=https&pz=us
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia" status="online",Teleantioquia
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="telemedellin" status="online",telemedellin
