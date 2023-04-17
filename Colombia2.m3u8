@@ -7,9 +7,17 @@ https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publis
 https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_1000.m3u8?aid=574462d1cab0f4d50866f001&uid=Z5CmEkTGuztjBjdh78Vi3NGDjyKpxYpY&sid=g74hM8egj9pAlMWsHf7V4dKLkGGPfliE&pid=mmffIe5OMUHTUmB5qziHxINU6vadIUJC&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e3-p-e-za1.cdn.mdstrm.com&ote=1681781965502&ot=qbxSBsrAcEBnkXz1wgs_yg&proto=https&pz=us
 #EXTINF:-1 tvg-id="Teleantioquia" status="online",Teleantioquia
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="telemedellin" status="online",telemedellin
+https://d1mvp1eb17qmg2.cloudfront.net/out/v1/06ff6b3e60c74d70b79a1d3889e7d435/index_video_7_0_5114562.mp4?m=1671471960
 #EXTINF:-1 tvg-id="Canal TRO" status="online",Canal TRO
 https://liveingesta118.cdnmedia.tv//canaltro2live/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele Amniga" status="online",Tele Amiga
 https://liveingesta118.cdnmedia.tv//teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="Tele Amniga2" status="online",Tele Amiga2
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="3abnlatino" status="online",3abnlatino
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive-1500/chunklist.m3u8?DVR
+#EXTINF:-1 tvg-id="3abnlatino2" status="online",3abnlatino2
+https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
+
