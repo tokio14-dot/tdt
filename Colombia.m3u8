@@ -5,3 +5,5 @@ https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-Sk7Z-9vqEYbkih2Pm
 https://co-e3-p-e-za1.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_250.m3u8?aid=574462d1cab0f4d50866f001&uid=Z5CmEkTGuztjBjdh78Vi3NGDjyKpxYpY&sid=Tu7ACGaqgMT5DUwjc9tbE4ZjS3EcZn8m&pid=D0vkYVtGWY0lHfmP4mBEJlVCpup5L3sF&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e3-p-e-za1.cdn.mdstrm.com&ote=1681776421232&ot=Oz398QMExoBoiZXAd2x_Xw&proto=https&pz=us
 #EXTINF:-1 tvg-id="Teleantioquia" status="online",Teleantioquia
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="Canal TRO" status="online",Canal TRO
+https://liveingesta118.cdnmedia.tv//canaltro2live/smil:live.smil/playlist.m3u8
