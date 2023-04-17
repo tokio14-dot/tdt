@@ -17,3 +17,5 @@ https://liveingesta118.cdnmedia.tv/teleamigatvlive/dvrlive-1500/chunklist.m3u8?D
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/master.m3u8
 #EXTINF:-1 tvg-id="3abnlatino2" status="online",3abnlatino2
 https://3abn-live.akamaized.net/hls/live/2010547/Latino/SQs/chunklist.m3u8
+#EXTINF:-1 tvg-id="Telepacifico" status="online",Telepacifico
+https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
